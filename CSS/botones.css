@@ -1,0 +1,88 @@
+button.b1{
+	top:15%;
+	left: 10%; 
+}
+button.b2{
+	top:15%; 
+	left: 35%;
+}
+button.b3{
+	top:15%;
+	left: 60%; 
+}
+
+
+button.b4{
+	top:28%; 
+	left: 10%; 
+}
+button.b5{
+	top:28%; 
+	left: 35%;
+}
+button.b6{
+	top:28%; 
+	left: 60%;
+}
+
+
+button.b7{
+	top:41%;
+	left: 10%; 
+}
+button.b8{
+	top:41%;
+	left: 35%;
+}
+button.b9{
+	top:41%; 
+	left: 60%;
+}
+
+
+button.b0{
+	top:54%; 
+	left: 10%;  
+}
+button.bP{
+	top:54%; 
+	left: 35%; 
+}
+button.bS{
+	top:54%; 
+	left: 60%; 
+}
+
+
+button.bR{
+	top:67%; 
+	left:10%; 
+}
+button.bM{
+	top:67%; 
+	left:35%; 
+}
+button.bD{
+	top:67%; 
+	left:60%; 
+}
+button.bC{
+	height: 9%;
+	top:80%; 
+	left:10%; 
+}
+
+.bIgual{
+	position: fixed; 
+	height: 9%;
+	width: 45%;	
+	font-family: Tahoma;
+	font-weight: bolder;
+	border-radius: 10px;
+	border-color: #2ecc71;
+	background-color: black;
+	color: white;
+	font-size: 100%;
+	top:80%; 
+	left:35%;
+}
